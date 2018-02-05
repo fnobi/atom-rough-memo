@@ -18,5 +18,8 @@
     "lodash": "^4.17.4",
     "mz": "^2.7.0",
     "space-pen": "^5.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0"
   }
 }
