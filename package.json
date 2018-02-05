@@ -2,12 +2,12 @@
   "name": "rough-memo",
   "main": "./lib/rough-memo",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "rough memo official atom plugin.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "rough-memo:sign-in"
   },
-  "repository": "https://github.com/atom/rough-memo",
+  "repository": "https://github.com/fnobi/atom-rough-memo",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
