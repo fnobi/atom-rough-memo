@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Sign In rough",
+        "command": "rough-memo:sign-in"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rough-memo",
+          "submenu": [
+            {
+              "label": "Sign In",
+              "command": "rough-memo:sign-in"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

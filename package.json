@@ -1,0 +1,22 @@
+{
+  "name": "rough-memo",
+  "main": "./lib/rough-memo",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "rough-memo:sign-in"
+  },
+  "repository": "https://github.com/atom/rough-memo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-select-list": "^0.7.0",
+    "firebase": "^4.8.1",
+    "lodash": "^4.17.4",
+    "mz": "^2.7.0",
+    "space-pen": "^5.1.2"
+  }
+}
