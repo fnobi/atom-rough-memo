@@ -1,7 +1,7 @@
 {
   "name": "rough-memo",
   "main": "./lib/rough-memo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "rough memo official atom plugin.",
   "keywords": [],
   "activationCommands": {
